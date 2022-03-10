@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Maulidta👋</h1>
-<h3 align="center">I am a Gamer and little bit of a dreamer</h3>
+<h3 align="center">I am a gamer and little bit of a dreamer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
